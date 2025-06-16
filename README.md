@@ -17,7 +17,6 @@ Hi! I'm **Dominik Jaskula**, an IT student from the Czech Republic with a passio
 
 ## 💼 Experience
 - **IT Assistant** @ PCPRINT (2024): Computer service & maintenance
-- **Kitchen Assistant** @ Pizzeria Laguna (2023): Summer job experience
 
 ---
 
