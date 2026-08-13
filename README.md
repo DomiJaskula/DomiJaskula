@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🏗️ **I’m currently working on:**  <br>Final project for my gratuation year<br>👨🏼‍🎓 **I’m currently a student at:** <br>Secondary Technical School Třebíč, where I study IT<br>🧠 **I’m currently learning:**  <br>Laravel, Cisco, and cybersecurity fundamentals.
+<br>🏗️ **I’m currently working on:**  <br>Personal projects<br>👨🏼‍🎓 **I’m currently a student at:** <br>Masaryk University Faculty of Informatics, where I study Programming and application development<br>🧠 **I’m currently learning:**  <br>IDK
 
 
 ## 🌐 Socials:
